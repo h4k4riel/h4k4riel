@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm David Maya<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlsb3JqNXdneDQxcWg5YzVqOGxiYWM1a2U2a2F2eGZwMXBta3IzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" />
 ## 🚀 About Me  
 💻 **Technical Specialist in Computer Science and IT**  
 🎯 **Currently diving into Cybersecurity**  
