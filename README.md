@@ -22,7 +22,7 @@
 - Automation scripts for security  
 
 📫 **Reach out to me at:** [davidmaya79@gmail.com](davidmaya79@gmail.com)  
-🚀  **my website:** [https://h4k4riel.github.io/] <a href=https://h4k4riel.github.io/>
+🚀  **my website:** https://h4k4riel.github.io/ <a href=https://h4k4riel.github.io/>
 ## My Skills Include
 
 <h4> Languages </h4>
